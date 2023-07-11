@@ -27,8 +27,8 @@ This QR code challenge was a quick challenge to help get back to the basics of H
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Mikhail2786/qr-code-component)
+- Live Site URL: [Live site URL here](https://earnest-souffle-5c9ed6.netlify.app/)
 
 ---
 
